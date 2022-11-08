@@ -1,0 +1,5 @@
+{:paths ["."]
+ :deps ;{com.googlecode.lanterna/lanterna {:mvn/version "3.1.1"}}
+ {clojure-lanterna/clojure-lanterna {:mvn/version "0.9.7"},
+  net.mikera/core.matrix {:mvn/version "0.62.0"}}
+ }
